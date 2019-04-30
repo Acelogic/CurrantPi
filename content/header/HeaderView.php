@@ -5,9 +5,9 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>Currant Pi - Raspberry Pi Status</title>
+<title>Raspberry Pi Status</title>
 
-<link href="favicon.ico" type="image/x-icon" rel="icon" />
+<link href="./css/favicon.ico" type="image/x-icon" rel="icon" />
 
 <!-- Bootstrap core CSS -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
